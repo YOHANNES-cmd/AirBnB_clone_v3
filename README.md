@@ -171,7 +171,7 @@ No known bugs at this time.
 + Mahmoud Abd Elkader - [Gmail](mahmoud01111mahmoud@gmail.com) /
 + Yohannes Kanko - [GitHub](https://github.com/YOHANNES-cmd) / [Twitter](https://twitter.com/johanneskanko7)
 + Jennifer Huang - [GitHub](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-+ Joann Vuong
++ Second part of Airbnb: Joann Vuong
 ## License
 
 Public Domain. No copy write protection.
