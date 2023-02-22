@@ -160,7 +160,6 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
-
 ## Bugs
 
 No known bugs at this time.
@@ -170,6 +169,7 @@ No known bugs at this time.
 + Alexa Orrico - [GitHub](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
 + Mahmoud Abd Elkader - [Gmail](mahmoud01111mahmoud@gmail.com) /
 + Yohannes Kanko - [GitHub](https://github.com/YOHANNES-cmd) / [Twitter](https://twitter.com/johanneskanko7)
++ Oluwaseun Aladejana - [Gmail](aladejanaoluwaseun.d@gmail.com) /
 + Jennifer Huang - [GitHub](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 + Second part of Airbnb: Joann Vuong
 ## License
