@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Contains the TestFileStorageDocs classes
@@ -117,7 +116,7 @@ class TestFileStorage(unittest.TestCase):
 
     @unittest.skipIf(models.storage_t == 'db', "not testing file storage")
     def test_get(self):
-        """ Tests to check method for obtaining an instance file storage"""
+        """ Tests method for obtaining an instance file storage"""
         storage = FileStorage()
         dic = {"name": "Vecindad"}
         instance = State(**dic)
@@ -129,7 +128,7 @@ class TestFileStorage(unittest.TestCase):
 
     @unittest.skipIf(models.storage_t == 'db', "not testing file storage")
     def test_count(self):
-        """ Tests to check the count method file storage """
+        """ Tests count method file storage """
         storage = FileStorage()
         dic = {"name": "Vecindad"}
         state = State(**dic)
